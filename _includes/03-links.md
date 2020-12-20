@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+[Link](www.google.it)
+
+In case you need anything, please read the manual [here](www.google.it)
